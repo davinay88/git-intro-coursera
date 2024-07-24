@@ -1,2 +1,2 @@
 # git-intro-coursera
-getting to know how to use github
+starting off on how to use git
